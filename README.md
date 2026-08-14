@@ -34,7 +34,7 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 ### Frontend
 
-![HTML](https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html5&logoColor=000)
 ![CSS](https://img.shields.io/badge/CSS-FFD43B?style=for-the-badge&logo=css&logoColor=000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
@@ -45,9 +45,9 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 ### Data Analysis
 
-![Pandas](https://img.shields.io/badge/Pandas-777BB4?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/-Matplotlib-777BB4?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-B7410E?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Numpy-B7410E?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/-Matplotlib-B7410E?style=for-the-badge&logo=python)
 ---
 
 ## 📊 GitHub Stats
