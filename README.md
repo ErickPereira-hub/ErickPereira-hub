@@ -47,7 +47,7 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 ![Docker](https://img.shields.io/badge/Pandas-FF8C00?style=for-the-badge&logo=pandas)
 ![Git](https://img.shields.io/badge/Numpy-FF8C00?style=for-the-badge&logo=numpy)
-![Git](https://img.shields.io/badge/MatPlotLib-FF8C00?style=for-the-badge&logo=matplotlib)
+![Git](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
 ---
 
 ## 📊 GitHub Stats
