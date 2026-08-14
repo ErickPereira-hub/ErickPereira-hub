@@ -31,9 +31,9 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 ### Databases
 
-![Mongo](https://img.shields.io/badge/MongoDB-2DDD48?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-2DDD48?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-2DDD48?style=for-the-badge&logo=redis)
+![Mongo](https://img.shields.io/badge/MongoDB-808080?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-808080?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-808080?style=for-the-badge&logo=redis)
 
 ### Frontend
 
