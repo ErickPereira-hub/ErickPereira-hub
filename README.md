@@ -1,8 +1,9 @@
 # Hi, I'm Erick Pereira
 
 ☠️ **Backend developer**
-My wish is to become a backend developer and data scientist with a solid base. My goal is to grow into a professional who can build efficient backend systems and extract meaningful insights from data.
-I'm passionate about problem-solving and continuously learning how software and data can come together to create impactful solutions
+
+<p>My wish is to become a backend developer and data scientist with a solid base. My goal is to grow into a professional who can build efficient backend systems and extract meaningful insights from data.
+I'm passionate about problem-solving and continuously learning how software and data can come together to create impactful solutions</p>
 ---
 
 ## 🌐 Where to find me
