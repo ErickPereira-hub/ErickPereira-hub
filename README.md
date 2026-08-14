@@ -54,8 +54,9 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=erickdevpereira&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickdevpereira&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://vercel.app" />
 </p>
+
 ---
 
 ⭐ If you like my work, consider starring a repository  
