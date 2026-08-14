@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Erick Pereira
 
-<!--
-**ErickPereira-hub/ErickPereira-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☠️ **Backend developer**
 
-Here are some ideas to get you started:
+My wish is to become a backend developer and data scientist with a solid base. My goal is to grow into a professional who can build efficient backend systems and extract meaningful insights from data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about problem-solving and continuously learning how software and data can come together to create impactful solutions
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/erick-dev-pereira/">
+    <img src="https://img.shields.io/badge/Linkedin-ERICK-0000FF?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:erick1204200100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-E4405F?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![Flask](https://img.shields.io/badge/Flask-339933?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-512BD4?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-512BD4?style=for-the-badge&logo=expressdotjs)
+![Mongo](https://img.shields.io/badge/MongoDB-2D3748?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-4169E1?style=for-the-badge&logo=redis)
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html&logoColor=000)
+![CSS](https://img.shields.io/badge/CSS-FFD43B?style=for-the-badge&logo=css&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=erickdevpereira&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickdevpereira&layout=compact&theme=tokyonight" />
+</p>
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
