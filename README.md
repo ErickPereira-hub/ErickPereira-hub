@@ -11,10 +11,10 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/erick-dev-pereira/">
-    <img src="https://img.shields.io/badge/Linkedin-ErickPereira-000080?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/Linkedin-ErickPereira-87CEEB?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:erick1204200100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-erick1204200100@gmail.com-E4405F?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-erick1204200100@gmail.com-87CEEB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -40,8 +40,8 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-E4405F?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-E4405F?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-90EE90?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-90EE90?style=for-the-badge&logo=git)
 
 ---
 
