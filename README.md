@@ -11,10 +11,10 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/erick-dev-pereira/">
-    <img src="https://img.shields.io/badge/Linkedin-ERICK-0000FF?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/Linkedin-ErickPereira-000080?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:erick1204200100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-E4405F?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-erick1204200100@gmail.com-E4405F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -24,13 +24,13 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 ### Backend
 
-![Flask](https://img.shields.io/badge/Flask-339933?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-512BD4?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-512BD4?style=for-the-badge&logo=expressdotjs)
+![Flask](https://img.shields.io/badge/Flask-2D3748?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-2D3748?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-2D3748?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-2D3748?style=for-the-badge&logo=expressdotjs)
 ![Mongo](https://img.shields.io/badge/MongoDB-2D3748?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-4169E1?style=for-the-badge&logo=redis)
+![MySQL](https://img.shields.io/badge/MySQL-2D3748?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-2D3748?style=for-the-badge&logo=redis)
 
 ### Frontend
 
@@ -40,8 +40,8 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-E4405F?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-E4405F?style=for-the-badge&logo=git)
 
 ---
 
