@@ -14,7 +14,7 @@ I'm passionate about problem-solving and continuously learning how software and 
     <img src="https://img.shields.io/badge/Linkedin-ErickPereira-87CEEB?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:erick1204200100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-erick1204200100@gmail.com-87CEEB?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-erick1204200100@gmail.com-800EEB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
