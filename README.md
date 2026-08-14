@@ -40,8 +40,8 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-556B2F?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-556B2F?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-013220?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-013220?style=for-the-badge&logo=git)
 
 ### Data Analysis
 
@@ -52,5 +52,5 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 ---
 
-⭐ If you like my work, consider starring a repository  
+⭐ If you like my work, consider starring a repository
 🤝 Always open to collaborations, partnerships, and cool ideas
