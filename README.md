@@ -5,6 +5,8 @@
 <p>My wish is to become a backend developer and data scientist with a solid base. My goal is to grow into a professional who can build efficient backend systems and extract meaningful insights from data.
 I'm passionate about problem-solving and continuously learning how software and data can come together to create impactful solutions</p>
 
+![animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 ---
 
 ## 🌐 Where to find me
