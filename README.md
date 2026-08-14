@@ -45,9 +45,9 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 ### Data Analysis
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-777BB4?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Matplotlib-777BB4?style=for-the-badge&logo=python)
 ---
 
 ## 📊 GitHub Stats
