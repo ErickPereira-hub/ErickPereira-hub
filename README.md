@@ -40,14 +40,14 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-90EE90?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-90EE90?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-556B2F?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-556B2F?style=for-the-badge&logo=git)
 
 ### Data Analysis
 
-![Docker](https://img.shields.io/badge/Pandas-90EE90?style=for-the-badge&logo=pandas)
-![Git](https://img.shields.io/badge/Numpy-90EE90?style=for-the-badge&logo=numpy)
-![Git](https://img.shields.io/badge/Matplotlib-90EE90?style=for-the-badge&logo=matplotlib)
+![Docker](https://img.shields.io/badge/Pandas-FF8C00?style=for-the-badge&logo=pandas)
+![Git](https://img.shields.io/badge/Numpy-FF8C00?style=for-the-badge&logo=numpy)
+![Git](https://img.shields.io/badge/MatPlotLib-FF8C00?style=for-the-badge&logo=matplotlib)
 ---
 
 ## 📊 GitHub Stats
