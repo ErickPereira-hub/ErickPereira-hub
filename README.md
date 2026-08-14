@@ -47,8 +47,8 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 ![Pandas](https://img.shields.io/badge/Pandas-B7410E?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-B7410E?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Python-B7410E?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-B7410E?&logo=SQL&logoColor=4479A1)
+![Matplotlib](https://img.shields.io/badge/-Python-B7410E?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-B7410E?style=for-the-badge&logo=SQL&logoColor=4479A1)
 
 ---
 
