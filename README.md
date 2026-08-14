@@ -27,7 +27,7 @@ I'm passionate about problem-solving and continuously learning how software and 
 ![Flask](https://img.shields.io/badge/Flask-2D3748?style=for-the-badge&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-2D3748?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-2D3748?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-2D3748?style=for-the-badge&logo=expressdotjs)
+![Express.js](https://img.shields.io/badge/Express.js-2D3748?style=for-the-badge&logo=express)
 ![Mongo](https://img.shields.io/badge/MongoDB-2D3748?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-2D3748?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-2D3748?style=for-the-badge&logo=redis)
