@@ -48,14 +48,7 @@ I'm passionate about problem-solving and continuously learning how software and 
 ![Pandas](https://img.shields.io/badge/Pandas-B7410E?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Numpy-B7410E?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/-Matplotlib-B7410E?style=for-the-badge&logo=python)
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=erickdevpereira&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://vercel.app" />
-</p>
+![SQL](https://img.shields.io/badge/-Matplotlib-B7410E?style=for-the-badge&logo=sql)
 
 ---
 
