@@ -53,4 +53,5 @@ I'm passionate about problem-solving and continuously learning how software and 
 ---
 
 ⭐ If you like my work, consider starring a repository
+
 🤝 Always open to collaborations, partnerships, and cool ideas
