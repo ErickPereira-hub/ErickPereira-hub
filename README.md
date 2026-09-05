@@ -47,6 +47,7 @@ I'm passionate about problem-solving and continuously learning how software and 
 
 ![Docker](https://img.shields.io/badge/Docker-013220?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-013220?style=for-the-badge&logo=git)
+![Nginx](https://img.shields.io/badge/Git-013220?style=for-the-badge&logo=nginx)
 
 ### Data Analysis
 
